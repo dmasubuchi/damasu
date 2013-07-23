@@ -1,4 +1,0 @@
-damasu
-======
-
-damasudemo
